@@ -36,29 +36,6 @@ O Herói de nome {nome} está no nível de {nivel}
 - Laços de repetição
 - Estruturas de decisão
 
-## 📁 Estrutura do Repositório
-
-- **src/**: Contém o código-fonte do projeto.
-- **docs/**: Contém arquivos relacionados ao projeto, como templates de design ou links úteis.
-- **README.md**: Este arquivo, com instruções sobre o desafio e como executá-lo.
-
-## 💡 Dicas
-
-- Explore os conceitos aprendidos até agora e busque melhorar o projeto inicial.
-- Caso tenha um repositório de referência, considere fazer um "fork" para evoluir e personalizar seu projeto mantendo uma conexão com o código original.
-
-## 📦 Como Executar
-
-1. Clone o repositório:
-git clone https://github.com/karinaburguez/dio-gtf-start-6-classificador.git
-
-
-2. Navegue até o diretório do projeto:
-cd dio-gtf-start-6-classificador
-
-
-3. Execute o programa.
-
 ## 📚 Links Úteis
 
 - [DIO - Plataforma de Cursos](https://www.dio.me/)
