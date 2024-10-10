@@ -57,7 +57,7 @@ git clone https://github.com/karinaburguez/dio-gtf-start-6-classificador.git
 cd dio-gtf-start-6-classificador
 
 
-3. Execute o programa (instruções específicas de execução, se houver, aqui).
+3. Execute o programa.
 
 ## 📚 Links Úteis
 
